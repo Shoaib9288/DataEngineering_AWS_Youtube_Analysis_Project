@@ -1,5 +1,8 @@
 # Data Engineering YouTube Analysis Project using AWS Components
 
+![logo](https://user-images.githubusercontent.com/95742933/231440898-4af69310-d75f-4422-89a9-dbb119412c2c.png)
+
+
 ## Overview
 
 This project aims to securely manage, streamline, and perform analysis on the structured and semi-structured YouTube videos data based on the video categories and the trending metrics.
@@ -12,7 +15,7 @@ This project aims to securely manage, streamline, and perform analysis on the st
 5. Cloud — We can’t process vast amounts of data on our local computer so we need to use the cloud, in this case, we will use AWS
 6. Reporting — Build a dashboard to get answers to the question we asked earlier
 
-### Services we will be using
+## Services we will be using
 1. Amazon S3: Amazon S3 is an object storage service that provides manufacturing scalability, data availability, security, and performance.
 2. AWS IAM: This is nothing but identity and access management which enables us to manage access to AWS services and resources securely.
 3. QuickSight: Amazon QuickSight is a scalable, serverless, embeddable, machine learning-powered business intelligence (BI) service built for the cloud.
@@ -28,10 +31,6 @@ https://www.kaggle.com/datasets/datasnaek/youtube-new
 ## Architecture Diagram
 <img src="architecture.jpeg">
 
-## Complete Tutorial
-I have created a detailed 3+ hour tutorial on this project, where you will execute everything from start to end
-
-https://youtu.be/yZKJFKu49Dk
 
 
 
